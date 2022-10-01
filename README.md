@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaliaaw31
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning data visualization
+- 👀 I’m interested in Data Enthusiast
+- 🌱 I’m currently learning Data Analyst
 - 📫 How to reach me on LinkedIn --> www.linkedin.com/in/amaliaaw
 
 <!---
