@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amaliaaw31
-- 👀 I’m interested in Data Enthusiast
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Data and Quality Assurance Enthusiast
+- 🌱 I’m currently learning Data Analyst and Quality Assurance
 - 📫 How to reach me on LinkedIn --> www.linkedin.com/in/amaliaaw
 
 <!---
